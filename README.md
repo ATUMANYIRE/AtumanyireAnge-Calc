@@ -1,4 +1,4 @@
-# atumanyire-calcutils
+# atumanyire-ange-calc
 
 A simple arithmetic and statistical utility package, built for the
 "Create & Publish a Python Package" lab.
@@ -8,13 +8,13 @@ A simple arithmetic and statistical utility package, built for the
 From TestPyPI:
 
 ```bash
-pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ atumanyire-calcutils
+pip install --index-url https://test.pypi.org/simple/ --extra-index-url https://pypi.org/simple/ atumanyire-ange-calc
 ```
 
 ## Usage
 
 ```python
-from calcutils import add, multiply, average
+from atumanyire_ange_calc import add, multiply, average
 
 add(10, 25)                  # 35
 multiply(3, 4)               # 12

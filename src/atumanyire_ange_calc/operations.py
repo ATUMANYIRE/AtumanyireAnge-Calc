@@ -1,5 +1,5 @@
 """
-Core arithmetic and statistical helper functions for calcutils.
+Core arithmetic and statistical helper functions for atumanyire_ange_calc.
 """
 
 from typing import List
